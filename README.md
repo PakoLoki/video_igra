@@ -1,2 +1,2 @@
 # video_igra
-Video igra u C++
+Igra u kojoj je cilj skupljati tokene te izbjegavati prepreke po mapi.
